@@ -1,5 +1,4 @@
-![Screenshot 2024-06-12 201500](https://github.com/Viveknalwade/Web-Projects/assets/163569779/8b6f8ef4-9af6-410b-96bd-c34eb489164d)# React KanBan Application 
-
+# React Kanban Application
 Developed a Kanban Application for task management and workflow visualization. Design a user-friendly interface with responsive UI/UX for seamless task management across devices. Enable users to create boards, lists, and cards representing tasks or work items. Implement drag-and-drop functionality for easy movement of cards between different lists or stages of workflow. 
 
 ## Avialable Scripts
